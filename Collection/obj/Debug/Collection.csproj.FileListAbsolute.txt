@@ -1,0 +1,10 @@
+C:\Users\темирбулата\source\repos\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\темирбулата\source\repos\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\темирбулата\source\repos\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\темирбулата\source\repos\Collection\Collection\bin\Debug\MyMas.dll
+C:\Users\темирбулата\source\repos\Collection\Collection\bin\Debug\MyMas.pdb
+C:\Users\темирбулата\source\repos\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CopyComplete
+C:\Users\темирбулата\source\repos\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\темирбулата\source\repos\Collection\Collection\obj\Debug\Collection.pdb

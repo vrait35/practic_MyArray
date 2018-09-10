@@ -1,0 +1,6 @@
+C:\Users\темирбулата\source\repos\Collection\MyMas\bin\Debug\MyMas.dll
+C:\Users\темирбулата\source\repos\Collection\MyMas\bin\Debug\MyMas.pdb
+C:\Users\темирбулата\source\repos\Collection\MyMas\obj\Debug\MyMas.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\Collection\MyMas\obj\Debug\MyMas.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\Collection\MyMas\obj\Debug\MyMas.dll
+C:\Users\темирбулата\source\repos\Collection\MyMas\obj\Debug\MyMas.pdb
